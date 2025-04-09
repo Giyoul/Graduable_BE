@@ -7,6 +7,7 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 public class GraduableApplication {
 
 	public static void main(String[] args) {
+
 		SpringApplication.run(GraduableApplication.class, args);
 	}
 
